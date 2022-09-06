@@ -2,7 +2,7 @@
 👋  Ola, eu sou  @gustavoWalker
 - 👀 Estou interessado em JavaScript...
 -  Atualmente sou Estudante do **Ensino Médio**
-- 📫 você pode entra em contato com pelo meu 
+- 📫 você pode entra em contato com pelo meu [instagram](https://www.instagram.com/gustavowkergomesda/)
 
 <!---
 gustavoWalkerauau/gustavoWalkerauau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
